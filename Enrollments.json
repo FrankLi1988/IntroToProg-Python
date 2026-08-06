@@ -1,22 +1,12 @@
 [
     {
-        "FirstName": "Frank Li",
+        "FirstName": "Frank",
         "LastName": "Li",
-        "CourseName": "Python 002"
+        "CourseName": "Python 003"
     },
     {
         "FirstName": "Frank",
         "LastName": "Li",
-        "CourseName": "C# 002"
-    },
-    {
-        "FirstName": "Frank",
-        "LastName": "Li",
-        "CourseName": "Math 002"
-    },
-    {
-        "FirstName": "Frank",
-        "LastName": "Li",
-        "CourseName": "Hello 002"
+        "CourseName": "C# 003"
     }
 ]
